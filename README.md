@@ -2,6 +2,10 @@
 
 # Next Learning: 
 
+# DJ Event Project
+[Strap APi](https://github.com/GlennOu66304/dj-events-backend)    
+[Dj evetn](https://github.com/GlennOu66304/djEvent)   
+
 ## Bug fxing: Unexpected token < in JSON at position
 
 Check the api url, try to find out if you miss spelling the api word
