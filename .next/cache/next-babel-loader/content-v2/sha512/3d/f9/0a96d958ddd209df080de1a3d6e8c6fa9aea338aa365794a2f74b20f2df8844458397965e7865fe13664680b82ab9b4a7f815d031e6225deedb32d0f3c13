@@ -1,0 +1,1 @@
+{"ast":null,"code":"// fetch the data first, you need to define the data path in the config first\nconst dev = false;\nexport const server = dev ? 'http://localhost:3000' : 'https://yourwebsite.com';","map":null,"metadata":{},"sourceType":"module"}
