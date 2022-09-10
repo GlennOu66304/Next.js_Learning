@@ -2,6 +2,10 @@
 
 # Next Learning: 
 
+## Vercel Serverless Deploy
+
+[Vercel ServerLess function deploy](https://github.com/GlennOu66304/Vercel-Serverless)
+
 # DJ Event Project
 [Strap APi](https://github.com/GlennOu66304/dj-events-backend)    
 [Dj evetn](https://github.com/GlennOu66304/djEvent)   
